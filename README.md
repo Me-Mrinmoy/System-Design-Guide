@@ -77,4 +77,13 @@ Let's connect and grow together in this exciting journey! 🚀
    git clone https://github.com/Me-Mrinmoy/System-Design-Guide.git
    ```
 
+---
+
+**Tips:**
+- Replace any spaces in folder links with `%20` (or rename folders to use underscores).
+- Add GitHub badges (stars, forks, license) above the title if you like.
+- Feel free to tweak styling, emojis, or headings to match your personal brand.
+
+---
+
    ---
