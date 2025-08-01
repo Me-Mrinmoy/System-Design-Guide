@@ -74,3 +74,17 @@ These designs are handpicked to help you:
 cd Experienced-Level/01_URL_Shortener_Like_Bitly
 code README.md
 ```
+
+---
+
+## 🤝 Connect with Me
+
+Hi, I'm **Mrinmoy Samanta** — a passionate developer and system design enthusiast.  
+Let's connect and grow together in this exciting journey! 🚀
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrinmoy-samanta-07b617253/)
+- 💻 [GitHub](https://github.com/Me-Mrinmoy)
+- ✉️ Email: [mrinmoysamantamrinmoysamanta@gmail.com](mailto:mrinmoysamantamrinmoysamantamrinmoysamanta@gmail.com)
+- 🧠 [LeetCode](https://leetcode.com/Me_Mrinmoy/)
+
+---
