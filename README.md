@@ -1,2 +1,43 @@
-# System-Design-Guide
-I have researched lots of product-based companies like Amazon, Microsoft, Netflix, Zomato, Goldman Sachs, Paytm, J.P. Morgan etc., for SDE1 2 roles, and found that these 20 system design questions are almost asked in every interviews, both at the fresher and experienced levels
+# 🚀 System-Design-Guide
+
+> A curated collection of the top 20 system design questions asked at both fresher and experienced levels across product-based companies like Amazon, Google, Microsoft, Netflix, Zomato, Goldman Sachs, Paytm, J.P. Morgan, and more.
+
+---
+
+## 📖 Table of Contents
+
+1. [About](#about)  
+2. [📂 Repository Structure](#-repository-structure)  
+3. [🎓 Fresher-Level System Design](#-fresher-level-system-design)  
+4. [🧠 Experienced-Level System Design](#-experienced-level-system-design)  
+5. [⚙️ How to Use](#️-how-to-use)  
+6. [🤝 Connect with Me](#-connect-with-me)  
+7. [📜 License](#-license)  
+
+---
+
+## About
+
+I’ve researched SDE-1 and SDE-2 interview experiences at top product companies and distilled **20 must-know system design problems** for both freshers and seasoned engineers. Solve these to master core architecture patterns, trade-offs, scalability, and prepare confidently for your next system design round.
+
+---
+
+## 📂 Repository Structure
+```bash
+System-Design-Guide/
+├── Experienced Level System Design/
+│ ├── 01_URL_Shortener_Like_Bitly/
+│ ├── 02_Distributed_KV_Store/
+│ └── … (20 total)
+│
+├── Fresher Level System Design/
+│ ├── 01_URL_Shortener/
+│ ├── 02_Chat_Application/
+│ └── … (20 total)
+│
+├── .gitignore
+├── LICENSE
+└── README.md ← You are here
+```
+
+---
