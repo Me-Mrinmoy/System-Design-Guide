@@ -67,7 +67,6 @@ Let's connect and grow together in this exciting journey! 🚀
 - 💻 [GitHub](https://github.com/Me-Mrinmoy)
 - ✉️ Email: [mrinmoysamantamrinmoysamantamrinmoysamanta@gmail.com](mailto:mrinmoysamantamrinmoysamantamrinmoysamanta@gmail.com)
 - 🧠 [LeetCode](https://leetcode.com/Me_Mrinmoy/)
-- 🌐 Portfolio: *(Coming Soon)*
 
 ---
 
