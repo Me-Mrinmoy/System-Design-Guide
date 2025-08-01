@@ -49,3 +49,33 @@ Beginner-friendly problems to build your fundamentals:
 👉 [Go to Fresher-Level Problems »](./Fresher%20Level%20System%20Design/README.md)
 
 ---
+
+## 🧠 Experienced-Level System Design
+
+Advanced, real-world scenarios to scale your thinking:
+
+👉 [Go to Experienced-Level Problems »](./Experienced%20Level%20System%20Design/README.md)
+
+---
+
+## 🤝 Connect with Me
+
+Hi, I'm **Mrinmoy Samanta** — a passionate developer and system design enthusiast.  
+Let's connect and grow together in this exciting journey! 🚀
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrinmoy-samanta-07b617253/)
+- 💻 [GitHub](https://github.com/Me-Mrinmoy)
+- ✉️ Email: [mrinmoysamantaofficial@gmail.com](mailto:mrinmoysamantaofficial@gmail.com)
+- 🧠 [LeetCode](https://leetcode.com/Me_Mrinmoy/)
+- 🌐 Portfolio: *(Coming Soon)*
+
+---
+
+## ⚙️ How to Use
+
+1. **Clone** the repo:  
+   ```bash
+   git clone https://github.com/Me-Mrinmoy/System-Design-Guide.git
+   ```
+
+   ---
