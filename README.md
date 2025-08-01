@@ -41,3 +41,11 @@ System-Design-Guide/
 ```
 
 ---
+
+## 🎓 Fresher-Level System Design
+
+Beginner-friendly problems to build your fundamentals:
+
+👉 [Go to Fresher-Level Problems »](./Fresher%20Level%20System%20Design/README.md)
+
+---
