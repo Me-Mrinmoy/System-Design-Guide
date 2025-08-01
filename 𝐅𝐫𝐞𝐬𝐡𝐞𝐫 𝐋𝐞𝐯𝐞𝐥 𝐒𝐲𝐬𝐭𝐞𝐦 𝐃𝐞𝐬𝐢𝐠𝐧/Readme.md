@@ -53,3 +53,16 @@ code README.md
 
 ---
 
+## 🤝 Connect with Me
+
+Hi, I'm **Mrinmoy Samanta** – a passionate software developer and CSE undergrad.  
+I'm currently building projects, learning system design, and preparing for tech internships.
+
+Feel free to connect, collaborate, or reach out for any exciting opportunities! 🚀
+
+- 💼 LinkedIn: [Mrinmoy Samanta](https://www.linkedin.com/in/mrinmoy-samanta-07b617253/)
+- 💻 GitHub: [Me-Mrinmoy](https://github.com/Me-Mrinmoy)
+- ✉️ Email: [mrinmoysamantamrinmoysamanta@gmail.com](mailto:mrinmoysamantamrinmoysamantamrinmoysamanta@gmail.com)
+- 🧠 LeetCode: [Me_Mrinmoy](https://leetcode.com/Me_Mrinmoy/)
+
+---
