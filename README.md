@@ -65,7 +65,7 @@ Let's connect and grow together in this exciting journey! 🚀
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mrinmoy-samanta-07b617253/)
 - 💻 [GitHub](https://github.com/Me-Mrinmoy)
-- ✉️ Email: [mrinmoysamantaofficial@gmail.com](mailto:mrinmoysamantaofficial@gmail.com)
+- ✉️ Email: [mrinmoysamantamrinmoysamantamrinmoysamanta@gmail.com](mailto:mrinmoysamantamrinmoysamantamrinmoysamanta@gmail.com)
 - 🧠 [LeetCode](https://leetcode.com/Me_Mrinmoy/)
 - 🌐 Portfolio: *(Coming Soon)*
 
