@@ -50,6 +50,20 @@ These designs are handpicked to help you:
 
 ---
 
+## 🧰 Tools We Recommend
+
+- 🖼️ **Diagrams**:  
+  Use [draw.io](https://draw.io), [Lucidchart](https://lucidchart.com), or [Mermaid.js](https://mermaid.js.org/) to draw architecture diagrams.
+
+- 📒 **Notes**:  
+  Maintain your designs using Markdown or [Notion](https://www.notion.so).
+
+- 🧪 **Practice Platforms**:
+  - [Excalidraw](https://excalidraw.com/) – Sketch out ideas quickly  
+  - [System Design Primer](https://github.com/donnemartin/system-design-primer) – Learn from the best curated repo
+
+---
+
 ## 💡 How to Use
 
 1. Navigate to the project folder
@@ -59,3 +73,4 @@ These designs are handpicked to help you:
 ```bash
 cd Experienced-Level/01_URL_Shortener_Like_Bitly
 code README.md
+```
