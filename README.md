@@ -37,7 +37,7 @@ System-Design-Guide/
 │
 ├── .gitignore
 ├── LICENSE
-└── README.md ← You are here
+└── README.md
 ```
 
 ---
